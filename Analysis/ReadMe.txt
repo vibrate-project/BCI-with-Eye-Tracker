@@ -1,0 +1,1 @@
+Run the Main.py file to train and test the neural network architecture.
